@@ -5,7 +5,7 @@
 This is a prework study code featuring notes on various different languages used in its creation. It also serves as an example of how to use these langauges.
 
 - My main motivation is to learn how to code so I can get a job and create my own video games.
-- I build this project in order to prepare myself with the knowledge I will need to begin the bootcamp.
+- I built this project in order to prepare myself with the knowledge I will need to begin the bootcamp.
 - This project provides introductory knowledge to CSS, HTML, Javascript, and Git.
 - I learned how to write a basic webpage and use git.
 
